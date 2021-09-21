@@ -1,1 +1,11 @@
-kb:{url:"https://naver.com}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
